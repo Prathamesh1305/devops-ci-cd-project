@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>DevOps CI/CD Project</title>
+</head>
+<body>
+    <h1>CI/CD Pipeline Deployment Successful 🚀</h1>
+    <p>Project by Prathamesh Mahajan</p>
+</body>
+</html>
