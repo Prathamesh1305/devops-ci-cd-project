@@ -80,38 +80,6 @@ Once deployed, the application is accessible via:
 http://<EC2-PUBLIC-IP>
 ```
 
----
-
-## 📸 Screenshots (Project Proof)
-
-> Add your real screenshots here for better impact.
-
-### 1️⃣ Jenkins Pipeline Execution
-
-```
-![Jenkins Pipeline](screenshots/jenkins-pipeline.png)
-```
-
-### 2️⃣ Docker Image on Docker Hub
-
-```
-![Docker Hub](screenshots/dockerhub-image.png)
-```
-
-### 3️⃣ Running Container on AWS EC2
-
-```
-![EC2 Deployment](screenshots/ec2-deployment.png)
-```
-
-### 4️⃣ Live Web Application Output
-
-```
-![Web Output](screenshots/live-output.png)
-```
-
----
-
 ## 🚀 Key Learnings
 
 * CI/CD pipeline creation using Jenkins
