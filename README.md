@@ -72,14 +72,6 @@ devops-ci-cd-project
 
 ---
 
-## 🧪 Deployment Output
-
-Once deployed, the application is accessible via:
-
-```
-http://<EC2-PUBLIC-IP>
-```
-
 ## 🚀 Key Learnings
 
 * CI/CD pipeline creation using Jenkins
